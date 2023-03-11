@@ -6,4 +6,4 @@
     
 4.  Lack of Trust: If there is a lack of trust among the crew members, it can lead to paranoid thoughts and behaviors. This can occur if there are past conflicts or disagreements among the crew, or if there are concerns about a crew member's reliability or loyalty.
     
-5.  Unexplained Incidents: If there are unexplained incidents on the ship, such as equipment malfunctions or strange noises, it can cause the crew members to become paranoid and suspect foul play.
+5.  Unexplained Incidents: If there are unexplained incidents on the ship, such as equipment malfunctions or strange noises, it can cause the crew members to become paranoid and suspect foul play. Test
