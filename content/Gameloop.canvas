@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f122cbab60b6dd20","x":-540,"y":-622,"width":140,"height":50,"type":"text","text":"Game Starts"},
+		{"type":"text","text":"[[AI]] game master reaches out to [[Player]]s to inform them of [[Main Objectives]] and [[Personal Objectives]]","id":"b46d845ce0995e36","x":-320,"y":-609,"width":420,"height":75},
+		{"type":"text","text":"[[Pre-game]]\n\n","id":"70cd4c02d37ed8fa","x":-800,"y":-800,"width":140,"height":50},
+		{"type":"text","text":"[[Initialization Tasks]]","id":"c0c20ee5c3e7dac5","x":-600,"y":-800,"width":180,"height":50}
+	],
+	"edges":[
+		{"id":"db0a9a855be8afa6","fromNode":"70cd4c02d37ed8fa","fromSide":"right","toNode":"c0c20ee5c3e7dac5","toSide":"left"},
+		{"id":"e27ee0079c2f788f","fromNode":"c0c20ee5c3e7dac5","fromSide":"bottom","toNode":"f122cbab60b6dd20","toSide":"top"},
+		{"id":"e5c86125703ec7e3","fromNode":"f122cbab60b6dd20","fromSide":"right","toNode":"b46d845ce0995e36","toSide":"left"}
+	]
+}
